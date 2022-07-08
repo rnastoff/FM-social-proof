@@ -1,0 +1,12 @@
+.card {
+  height: 36rem;
+  width: 69.4rem;
+}
+
+@media (max-width: 1160px) {
+  .card {
+    height: auto;
+    width: 23rem;
+    padding: 0rem;
+  }
+}
